@@ -16,7 +16,7 @@ Upload any car image to see the model predict the top 5 possible brands!
 
 ## ✍️ Medium Blog Post
 
-📖 [Read my full blog post explaining each step of the project]([https://medium.com/your-medium-article-url](https://medium.com/@borakutun2003/fine-tuning-a-car-brand-classifier-with-fastai-and-gradio-1159501b6fee))
+📖 [Read my full blog post explaining each step of the project](https://medium.com/@borakutun2003/fine-tuning-a-car-brand-classifier-with-fastai-and-gradio-1159501b6fee)
 
 Covers:
 - Data loading
